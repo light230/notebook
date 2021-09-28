@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Codex Astartes</title>
-	<atom:link href="https://light230.github.io/notebook/index.php/feed/" rel="self" type="application/rss+xml" />
+	<title>sense &#8211; Codex Astartes</title>
+	<atom:link href="https://light230.github.io/notebook/index.php/category/sense/feed/" rel="self" type="application/rss+xml" />
 	<link>https://light230.github.io/notebook</link>
 	<description>you should know it.</description>
-	<lastBuildDate>Tue, 28 Sep 2021 19:58:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Sep 2021 19:47:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,35 +40,6 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
-		<item>
-		<title>Bài hát chống xâm lăng</title>
-		<link>https://light230.github.io/notebook/index.php/2021/09/28/bai-hat-chong-xam-lang/</link>
-					<comments>https://light230.github.io/notebook/index.php/2021/09/28/bai-hat-chong-xam-lang/#respond</comments>
-		
-		<dc:creator><![CDATA[Guilliman]]></dc:creator>
-		<pubDate>Tue, 28 Sep 2021 18:13:50 +0000</pubDate>
-				<category><![CDATA[patriot]]></category>
-		<guid isPermaLink="false">https://light230.github.io/notebook/?p=7</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-video"><video controls src="https://light230.github.io/notebook/wp-content/uploads/2021/09/Bai-Hat-Chong-Xam-Lang.mp4"></video></figure>
-
-
-
-<figure class="wp-block-image size-full is-style-default"><img loading="lazy" width="1080" height="1212" src="https://light230.github.io/notebook/wp-content/uploads/2021/09/image.png" alt="" class="wp-image-8"/><figcaption>Chúng ta không thể tạo ra đủ loại luật lệ để kiểm soát lũ ác ma. Vì lũ ác ma không bao giờ tuân theo luật lệ. Do vậy, ác ma chỉ có thể bị đào thải, không thể cải tạo.</figcaption></figure>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://light230.github.io/notebook/index.php/2021/09/28/bai-hat-chong-xam-lang/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		<enclosure url="https://light230.github.io/notebook/wp-content/uploads/2021/09/Bai-Hat-Chong-Xam-Lang.mp4" length="30141183" type="video/mp4" />
-
 			</item>
 	</channel>
 </rss>
