@@ -12,7 +12,7 @@
 	<atom:link href="https://light230.github.io/notebook/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link>https://light230.github.io/notebook</link>
 	<description>you should know it.</description>
-	<lastBuildDate>Wed, 29 Sep 2021 19:42:35 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 03:31:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -46,18 +46,19 @@
 		
 			</item>
 		<item>
-		<title>Five Principles for Learning Vocabulary</title>
+		<title>1. Five Principles for Learning Vocabulary</title>
 		<link>https://light230.github.io/notebook/index.php/2021/09/29/five-principles-for-learning-vocabulary/</link>
 					<comments>https://light230.github.io/notebook/index.php/2021/09/29/five-principles-for-learning-vocabulary/#respond</comments>
 		
 		<dc:creator><![CDATA[Guilliman]]></dc:creator>
 		<pubDate>Wed, 29 Sep 2021 17:48:19 +0000</pubDate>
 				<category><![CDATA[course]]></category>
+		<category><![CDATA[Building a Better Vocabulary]]></category>
 		<guid isPermaLink="false">https://light230.github.io/notebook/?p=63</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-video"><video controls src="https://vod-progressive.akamaized.net/exp=1632952399~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3646%2F24%2F618234989%2F2869632995.mp4~hmac=5f9bbeb8a198077c2d3292f3afc625fa30652f445a82022ca473de74acb9e66d/vimeo-prod-skyfire-std-us/01/3646/24/618234989/2869632995.mp4"></video><figcaption><a href="https://t.me/sense1358/34">https://t.me/sense1358/34</a></figcaption></figure>
+<iframe loading="lazy" src="https://drive.google.com/file/d/11tn87jabI0tb8cYWjBNzYBZw-2a3sqLv/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 
@@ -67,8 +68,7 @@
 					<wfw:commentRss>https://light230.github.io/notebook/index.php/2021/09/29/five-principles-for-learning-vocabulary/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://vod-progressive.akamaized.net/exp=1632952399~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3646%2F24%2F618234989%2F2869632995.mp4~hmac=5f9bbeb8a198077c2d3292f3afc625fa30652f445a82022ca473de74acb9e66d/vimeo-prod-skyfire-std-us/01/3646/24/618234989/2869632995.mp4" length="546337947" type="video/mp4" />
-
+		
 			</item>
 		<item>
 		<title>Never let anyone know what you are thinking.</title>
