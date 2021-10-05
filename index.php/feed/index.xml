@@ -12,7 +12,7 @@
 	<atom:link href="https://light230.github.io/notebook/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link>https://light230.github.io/notebook</link>
 	<description>you should know it.</description>
-	<lastBuildDate>Fri, 01 Oct 2021 03:31:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 04:11:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -56,13 +56,13 @@
 		<category><![CDATA[Building a Better Vocabulary]]></category>
 		<guid isPermaLink="false">https://light230.github.io/notebook/?p=63</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Link]]></description>
 										<content:encoded><![CDATA[
 <iframe loading="lazy" src="https://drive.google.com/file/d/11tn87jabI0tb8cYWjBNzYBZw-2a3sqLv/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 
-<p></p>
+<p><a href="https://drive.google.com/file/d/11tn87jabI0tb8cYWjBNzYBZw-2a3sqLv/view?usp=sharing">Link</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://light230.github.io/notebook/index.php/2021/09/29/five-principles-for-learning-vocabulary/feed/</wfw:commentRss>
