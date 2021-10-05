@@ -12,7 +12,7 @@
 	<atom:link href="https://light230.github.io/notebook/index.php/category/advice/feed/" rel="self" type="application/rss+xml" />
 	<link>https://light230.github.io/notebook</link>
 	<description>you should know it.</description>
-	<lastBuildDate>Tue, 05 Oct 2021 16:37:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Oct 2021 17:07:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,7 +31,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-video"><video controls src="https://light230.github.io/notebook/wp-content/uploads/2021/10/Anh-nho-em-remix-2016.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="https://github.com/light230/notebook/raw/gh-pages/wp-content/uploads/2021/10/Anh-nho-em-remix-2016.mp4"></video></figure>
 
 
 
@@ -41,7 +41,8 @@
 					<wfw:commentRss>https://light230.github.io/notebook/index.php/2021/10/05/never-tell-anyone-your-plans-show-them-your-results-instead/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://github.com/light230/notebook/raw/gh-pages/wp-content/uploads/2021/10/Anh-nho-em-remix-2016.mp4" length="187" type="video/mp4" />
+
 			</item>
 		<item>
 		<title>Never let anyone know what you are thinking.</title>
